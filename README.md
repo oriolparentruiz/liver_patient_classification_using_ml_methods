@@ -72,8 +72,7 @@ Cross-validated F1 macro of the best simple model per family:
 ├── AA1_CompetitionGuide_P25.pdf # Competition statement
 ├── train_features_ILDS.csv      # Training features (provided by the course)
 ├── train_labels_ILDS.csv        # Training labels
-├── test_data_ILDS.csv           # Test features
-└── submission.csv               # Generated Kaggle submission (ID, Label)
+└── test_data_ILDS.csv           # Test features
 ```
 
 > The notebook reads the three CSV files from its own folder, so they must be placed next to `code.ipynb`.
