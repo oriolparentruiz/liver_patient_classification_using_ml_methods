@@ -2,9 +2,6 @@
 
 Binary classification of patients as **liver patients** or **healthy subjects** from clinical and demographic data, developed for a [Kaggle InClass](https://www.kaggle.com/t/1ccb38a0e7054e6dbe2c953c10cf0124) competition. The work covers the full ML cycle: exploratory analysis, preprocessing, model comparison, hyperparameter search, ensembles and handling of class imbalance.
 
-> Project for *Machine Learning 1* (AA1) · Universitat Politècnica de Catalunya (UPC) · Bachelor's in Data Science and Engineering (GCED) · Academic year 2024–2025
-> Authors: **Lucas Viner** and **Oriol Parent**
-
 ---
 
 ## 📌 Overview
